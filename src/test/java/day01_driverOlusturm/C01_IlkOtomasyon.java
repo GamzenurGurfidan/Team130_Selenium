@@ -1,4 +1,4 @@
-package day01_driverOlusturma;
+package day01_driverOlusturm;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
